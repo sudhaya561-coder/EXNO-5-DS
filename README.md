@@ -122,5 +122,15 @@ STEP 5:Include Necessary parameters in each functions.
     plt.axis('equal')
     plt.show()
 ---
-# Result:
- Include your result here
+[vertopal.com_mathplotlib (1).pdf](https://github.com/user-attachments/files/25597833/vertopal.com_mathplotlib.1.pdf)
+
+<img width="707" height="567" alt="Screenshot 2026-02-27 132057" src="https://github.com/user-attachments/assets/2e01eafb-9cbf-40f9-be7f-52246c7d024e" />
+
+<img width="695" height="559" alt="Screenshot 2026-02-27 132104" src="https://github.com/user-attachments/assets/f9e7d395-ff53-49fa-890b-09563eea7212" />
+
+<img width="675" height="519" alt="Screenshot 2026-02-27 132118" src="https://github.com/user-attachments/assets/4718de1b-f831-4046-a292-20d05065114a" />
+
+<img width="644" height="480" alt="Screenshot 2026-02-27 132045" src="https://github.com/user-attachments/assets/3cf35ebe-4394-4c9b-8443-005fbc629bc2" />
+
+### Result:
+successfully Performed Data Visualization using matplot python library for the given data.
