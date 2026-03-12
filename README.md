@@ -122,6 +122,7 @@ STEP 5:Include Necessary parameters in each functions.
     plt.axis('equal')
     plt.show()
 ~~~
+
 # output:
 [vertopal.com_mathplotlib (1).pdf](https://github.com/user-attachments/files/25597833/vertopal.com_mathplotlib.1.pdf)
 
