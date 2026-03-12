@@ -18,7 +18,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
+~~~ python
  
     import pandas as pd
     import numpy as np
@@ -121,7 +121,8 @@ STEP 5:Include Necessary parameters in each functions.
 
     plt.axis('equal')
     plt.show()
----
+~~~
+# output:
 [vertopal.com_mathplotlib (1).pdf](https://github.com/user-attachments/files/25597833/vertopal.com_mathplotlib.1.pdf)
 
 <img width="707" height="567" alt="Screenshot 2026-02-27 132057" src="https://github.com/user-attachments/assets/2e01eafb-9cbf-40f9-be7f-52246c7d024e" />
